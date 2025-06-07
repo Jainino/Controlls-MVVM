@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Controlls-MVVM/static/js/main.0da6a6a4.js",
+    "static/js/787.19a379e8.chunk.js": "/Controlls-MVVM/static/js/787.19a379e8.chunk.js",
+    "index.html": "/Controlls-MVVM/index.html",
+    "main.0da6a6a4.js.map": "/Controlls-MVVM/static/js/main.0da6a6a4.js.map",
+    "787.19a379e8.chunk.js.map": "/Controlls-MVVM/static/js/787.19a379e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0da6a6a4.js"
+  ]
+}
